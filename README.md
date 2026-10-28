@@ -7,7 +7,7 @@ Abnahmetests und GHCR-Veröffentlichung findest Du in
 [docs/DAY_13_COMPLETION.md](docs/DAY_13_COMPLETION.md).
 Dieser Branch zeigt eine Musterlösung mit Webanwendung und PostgreSQL und integriert
 hierfür die Tag12-Musterlösung. Im Unterricht arbeitet Ihr in Eurem eigenen,
-an Tag01 angelegten und seither weiterentwickelten Team-Repository.
+an Tag01 angelegten und seither iterentwickelten Team-Repository.
 Alle `day_xx_solution`-Branches sind Referenzen und jederzeit optionale
 Wiedereinstiegspunkte bei Problemen. Ein Wechsel auf diese Branches ist keine
 Voraussetzung für den Projektauftrag. Der folgende historische Quick Start
